@@ -1,2 +1,4 @@
 # Responsive-ProfileCard
-A Responsive Profile Card with Links to different Handles of Linkedin,Twitter,Github,Stackoverflow. This Web-page seamlessly adapts to the different screen sizes of several devices such as Desktop,Tablet,Mobiles.
+
+### Why Create this ?
+I created a Responsive Profile Card as I imagined that in future people will replace visitng cards with something like this which has links to all their Social Media handles and will be sharing links of their Profile Card to their acquaintances and clients. 
